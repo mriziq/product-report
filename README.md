@@ -1,4 +1,4 @@
-# study-and-sell
+# product-report
 
 A [Claude Code](https://claude.ai/code) skill that reads a codebase and translates it into sharp business language — value propositions, selling points, competitive framing, and a pitch.
 
@@ -7,7 +7,7 @@ Built for engineers who need to sell, founders preparing for demos, and PMs who 
 ## Install
 
 ```bash
-npx skills add mriziq/study-and-sell
+npx skills add mriziq/product-report
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npx skills add mriziq/study-and-sell
 Navigate to any codebase and invoke the skill:
 
 ```
-/study-and-sell
+/product-report
 ```
 
 No arguments needed. Claude will explore the codebase on its own before producing the brief.

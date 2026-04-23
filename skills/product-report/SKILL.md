@@ -1,5 +1,5 @@
 ---
-name: study-and-sell
+name: product-report
 description: Reads a codebase through the lens of a tech-savvy engineer turned business/product person. Produces value propositions, selling points, and business framings derived from what the product actually does. Manually invoked only — no auto-trigger.
 ---
 
